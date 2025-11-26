@@ -112,6 +112,6 @@ From there, you can:
 ## 👩‍💻 Author
 
 **Alma Muzliukaj**
-* 💼 Computer Science Student
+* 💼 *Computer Science Student*
 * 🌐 https://github.com/almamuzliukaj
 * 📧 almamuzliukaj@gmail.com
