@@ -37,7 +37,7 @@ This project emphasizes:
 
 | Main Screen (Current Weather) | Forecast Detail Modal |
 | :---------------------------: | :-------------------: |
-| ![Main Weather Screen](assets/WeatherApp.jpeg)(assets/WeatherApp1.jpeg) |
+| <img src="assets/WeatherApp.jpeg" alt="Main Weather Screen" width="200"/> | <img src="assets/WeatherApp1.jpeg" alt="Forecast Detail Modal" width="200"/> |
 
 ---
 
